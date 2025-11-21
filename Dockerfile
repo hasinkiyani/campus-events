@@ -15,7 +15,7 @@ RUN npm install -g serve
 COPY . .
 
 # Step 6: Build the project with Parcel
-RUN parcel build src/index.html --dist-dir dist
+RUN parcel build src/gallery.html --dist-dir dist
 
 # Step 7: Expose the port
 EXPOSE 3000
