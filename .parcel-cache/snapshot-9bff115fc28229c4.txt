@@ -1,0 +1,22 @@
+21
+53C:\Users\THE USER\Desktop\campus-events\.dockerignore134082157756863866 0
+46C:\Users\THE USER\Desktop\campus-events\styles134082158099547688 1
+52C:\Users\THE USER\Desktop\campus-events\package.json134082158099522419 0
+50C:\Users\THE USER\Desktop\campus-events\.gitignore134082157756874053 0
+44C:\Users\THE USER\Desktop\campus-events\dist134082162641064246 1
+43C:\Users\THE USER\Desktop\campus-events\src134082158099537538 1
+50C:\Users\THE USER\Desktop\campus-events\Dockerfile134082162097763313 0
+49C:\Users\THE USER\Desktop\campus-events\README.md134082157756894033 0
+56C:\Users\THE USER\Desktop\campus-events\styles\style.css134082161623178406 0
+55C:\Users\THE USER\Desktop\campus-events\dist\about.html134082162639750375 0
+54C:\Users\THE USER\Desktop\campus-events\src\about.html134082157756910524 0
+57C:\Users\THE USER\Desktop\campus-events\dist\contact.html134082162639470288 0
+56C:\Users\THE USER\Desktop\campus-events\src\contact.html134082157756920567 0
+56C:\Users\THE USER\Desktop\campus-events\dist\events.html134082162639790316 0
+55C:\Users\THE USER\Desktop\campus-events\src\events.html134082157756920567 0
+57C:\Users\THE USER\Desktop\campus-events\dist\gallery.html134082162640968189 0
+56C:\Users\THE USER\Desktop\campus-events\src\gallery.html134082161659488750 0
+55C:\Users\THE USER\Desktop\campus-events\dist\index.html134082162640983852 0
+54C:\Users\THE USER\Desktop\campus-events\src\index.html134082158099537538 0
+65C:\Users\THE USER\Desktop\campus-events\dist\gallery.fa89403e.css134082162640994518 0
+69C:\Users\THE USER\Desktop\campus-events\dist\gallery.fa89403e.css.map134082162641054321 0

@@ -1,0 +1,22 @@
+21
+49C:\Users\DELL\Desktop\campus-events\.dockerignore134082190308061438 0
+46C:\Users\DELL\Desktop\campus-events\.gitignore134082190308071418 0
+48C:\Users\DELL\Desktop\campus-events\package.json134082190546258623 0
+40C:\Users\DELL\Desktop\campus-events\dist134082198621635424 1
+50C:\Users\DELL\Desktop\campus-events\src\about.html134082190308101434 0
+46C:\Users\DELL\Desktop\campus-events\Dockerfile134082197027825473 0
+39C:\Users\DELL\Desktop\campus-events\src134082190546278652 1
+45C:\Users\DELL\Desktop\campus-events\README.md134082190308091401 0
+51C:\Users\DELL\Desktop\campus-events\src\events.html134082190308121416 0
+42C:\Users\DELL\Desktop\campus-events\styles134082190546288623 1
+52C:\Users\DELL\Desktop\campus-events\styles\style.css134082194703769885 0
+52C:\Users\DELL\Desktop\campus-events\src\contact.html134082197977292590 0
+52C:\Users\DELL\Desktop\campus-events\src\gallery.html134082190546268618 0
+50C:\Users\DELL\Desktop\campus-events\src\index.html134082190546278652 0
+51C:\Users\DELL\Desktop\campus-events\dist\about.html134082198621019700 0
+61C:\Users\DELL\Desktop\campus-events\dist\contact.de99638e.css134082198621485431 0
+65C:\Users\DELL\Desktop\campus-events\dist\contact.de99638e.css.map134082198621615400 0
+53C:\Users\DELL\Desktop\campus-events\dist\contact.html134082198621485431 0
+52C:\Users\DELL\Desktop\campus-events\dist\events.html134082198621274635 0
+53C:\Users\DELL\Desktop\campus-events\dist\gallery.html134082198621485431 0
+51C:\Users\DELL\Desktop\campus-events\dist\index.html134082198621485431 0
