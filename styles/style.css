@@ -156,4 +156,45 @@ footer {
 .gallery-grid img:hover {
     transform: scale(1.05);
 }
+/* Events Page */
+.events-section {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.events-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 25px;
+    width: 90%;
+    margin: 40px auto;
+}
+
+.event-card {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: left;
+    transition: 0.3s ease;
+}
+
+.event-card:hover {
+    transform: scale(1.03);
+}
+
+.event-card h3 {
+    margin-bottom: 10px;
+}
+
+.event-date {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.event-details {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
 
